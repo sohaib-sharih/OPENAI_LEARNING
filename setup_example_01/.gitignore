@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+log.txt
+example.py
+.chainlit/
+.mypy_cache/
+Api/
