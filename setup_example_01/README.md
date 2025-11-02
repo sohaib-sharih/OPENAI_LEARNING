@@ -32,7 +32,7 @@ python -m venv venv
 ```
 requirements.txt
 
-pip freeze > requirements.txt
+pip install -r requirements.txt
 
 OR run the following commands if you are setting up the environment manually.
 
