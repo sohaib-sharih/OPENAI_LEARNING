@@ -1,5 +1,14 @@
 ### Getting Started with Openai Models and APIs
 
+#### Tools Used
+
+- **Python + OpenAI SDK** – Backend logic and API calls
+- **Chainlit** – Chat interface for experimentation
+- **Git + GitHub** – Version control and sharing
+- **Virtual Environments** – Clean dependency management
+
+#### Setup
+
 1. **Create an API key** from your dashboard.
 2. **Export the openai api key** using an environment variable
 
