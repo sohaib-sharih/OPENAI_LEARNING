@@ -37,3 +37,7 @@ This repository contains my hands-on experiments with the **OpenAI API** — cov
 2. **Chainlit** for chat UI
 3. **Git & GitHub** for version control and sharing
 4. **Virtual Environments** for dependency management
+
+### OpenAI Link
+
+https://platform.openai.com/
